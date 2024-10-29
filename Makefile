@@ -5,3 +5,4 @@ number-server: number-server.c
 
 clean:
 	rm -f number-server
+
